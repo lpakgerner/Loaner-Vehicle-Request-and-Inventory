@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6475e487939802106f3830dcebba1049" label="Loaner Vehicle Catalog 2" max_length="40" name="x_1152827_lva_loaner_vehicle_catalog_2" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" display="true" label="Status" mandatory="true" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <element label="Vehicle Make" max_length="40" name="vehicle_make" type="string"/>
+    </element>
+</database>

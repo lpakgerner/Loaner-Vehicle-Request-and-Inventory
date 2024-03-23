@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="181e8d2c93e402106f3830dcebba10c4" sys_domain="global" table="x_1152827_lva_vehicle_servicing" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-02-20 19:58:04</sys_created_on>
+            <sys_id>4e4e01ac93e402106f3830dcebba1009</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1152827_lva_vehicle_servicing" sys_domain="global" view="Default view">181e8d2c93e402106f3830dcebba10c4</sys_ui_section>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-02-20 19:58:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vehicle_tracker</element>
+            <position>1</position>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-02-20 19:58:04</sys_created_on>
+            <sys_id>c24e01ac93e402106f3830dcebba100a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1152827_lva_vehicle_servicing" sys_domain="global" view="Default view">181e8d2c93e402106f3830dcebba10c4</sys_ui_section>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-02-20 19:58:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vehicle</element>
+            <position>2</position>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-02-20 19:58:04</sys_created_on>
+            <sys_id>4a4e01ac93e402106f3830dcebba100a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1152827_lva_vehicle_servicing" sys_domain="global" view="Default view">181e8d2c93e402106f3830dcebba10c4</sys_ui_section>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-02-20 19:58:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vehicle_status</element>
+            <position>3</position>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-02-20 19:58:04</sys_created_on>
+            <sys_id>ce4e01ac93e402106f3830dcebba100a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1152827_lva_vehicle_servicing" sys_domain="global" view="Default view">181e8d2c93e402106f3830dcebba10c4</sys_ui_section>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-02-20 19:58:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-02-20 19:58:04</sys_created_on>
+            <sys_id>464e01ac93e402106f3830dcebba100b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1152827_lva_vehicle_servicing" sys_domain="global" view="Default view">181e8d2c93e402106f3830dcebba10c4</sys_ui_section>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-02-20 19:58:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_sent_for_servicing</element>
+            <position>5</position>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-02-20 19:58:04</sys_created_on>
+            <sys_id>ca4e01ac93e402106f3830dcebba100b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1152827_lva_vehicle_servicing" sys_domain="global" view="Default view">181e8d2c93e402106f3830dcebba10c4</sys_ui_section>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-02-20 19:58:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ticket_status</element>
+            <position>6</position>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-02-20 19:58:04</sys_created_on>
+            <sys_id>424e01ac93e402106f3830dcebba100c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1152827_lva_vehicle_servicing" sys_domain="global" view="Default view">181e8d2c93e402106f3830dcebba10c4</sys_ui_section>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-02-20 19:58:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-02-20 19:58:04</sys_created_on>
+            <sys_id>c64e01ac93e402106f3830dcebba100c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1152827_lva_vehicle_servicing" sys_domain="global" view="Default view">181e8d2c93e402106f3830dcebba10c4</sys_ui_section>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-02-20 19:58:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vehicle_issues</element>
+            <position>8</position>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-02-20 19:58:04</sys_created_on>
+            <sys_id>4e4e01ac93e402106f3830dcebba100c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1152827_lva_vehicle_servicing" sys_domain="global" view="Default view">181e8d2c93e402106f3830dcebba10c4</sys_ui_section>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-02-20 19:58:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_performed</element>
+            <position>9</position>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-02-20 19:58:04</sys_created_on>
+            <sys_id>c24e01ac93e402106f3830dcebba100d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1152827_lva_vehicle_servicing" sys_domain="global" view="Default view">181e8d2c93e402106f3830dcebba10c4</sys_ui_section>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-02-20 19:58:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1152827_lva_vehicle_servicing</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-02-20 19:57:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>181e8d2c93e402106f3830dcebba10c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1152827_lva_vehicle_servicing</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1152827_lva">2899c22693d002106f3830dcebba102f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory">2899c22693d002106f3830dcebba102f</sys_scope>
+            <sys_update_name>sys_ui_section_181e8d2c93e402106f3830dcebba10c4</sys_update_name>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-02-20 19:57:07</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

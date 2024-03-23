@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1152827_lva_vehicle_tracker">x_1152827_lva_vehicle_tracker</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>VEH</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>Linder</sys_created_by>
+        <sys_created_on>2024-02-20 17:04:46</sys_created_on>
+        <sys_id>2796a8a8932402106f3830dcebba104e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VEH</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1152827_lva">2899c22693d002106f3830dcebba102f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2899c22693d002106f3830dcebba102f</sys_scope>
+        <sys_update_name>sys_number_2796a8a8932402106f3830dcebba104e</sys_update_name>
+        <sys_updated_by>Linder</sys_updated_by>
+        <sys_updated_on>2024-02-20 17:04:46</sys_updated_on>
+    </sys_number>
+</record_update>

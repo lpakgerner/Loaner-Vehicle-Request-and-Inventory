@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Request Loaner Vehicle">6c9f8419932802106f3830dcebba102a</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>Linder</sys_created_by>
+        <sys_created_on>2024-02-22 23:26:47</sys_created_on>
+        <sys_id>07319499932802106f3830dcebba1052</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request Loaner Vehicle</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1152827_lva">2899c22693d002106f3830dcebba102f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2899c22693d002106f3830dcebba102f</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_07319499932802106f3830dcebba1052</sys_update_name>
+        <sys_updated_by>Linder</sys_updated_by>
+        <sys_updated_on>2024-02-22 23:26:47</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

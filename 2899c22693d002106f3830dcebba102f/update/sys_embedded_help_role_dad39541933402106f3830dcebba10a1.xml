@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1152827_lva.lva.user.maintenance" name="x_1152827_lva.lva.user.maintenance">baa3910d93f002106f3830dcebba1031</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>Linder</sys_created_by>
+        <sys_created_on>2024-03-05 19:55:02</sys_created_on>
+        <sys_id>dad39541933402106f3830dcebba10a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>baa3910d93f002106f3830dcebba1031</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1152827_lva">2899c22693d002106f3830dcebba102f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2899c22693d002106f3830dcebba102f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_dad39541933402106f3830dcebba10a1</sys_update_name>
+        <sys_updated_by>Linder</sys_updated_by>
+        <sys_updated_on>2024-03-05 19:55:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

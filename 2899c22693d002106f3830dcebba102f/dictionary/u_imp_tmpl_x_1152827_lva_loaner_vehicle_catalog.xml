@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9b72986093e002106f3830dcebba10be" extends="sys_import_set_row" label="Imp Tmpl X 1152827 Lva Loaner Vehicle Catalog" max_length="40" name="u_imp_tmpl_x_1152827_lva_loaner_vehicle_catalog" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Image" label="Image" max_length="40" name="u_image" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Status" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vehicle Description" label="Vehicle Description" max_length="1000" name="u_vehicle_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vehicle Make" label="Vehicle Make" max_length="40" name="u_vehicle_make" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vehicle Model" label="Vehicle Model" max_length="40" name="u_vehicle_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vehicle Year" label="Vehicle Year" max_length="40" name="u_vehicle_year" type="string"/>
+    </element>
+</database>

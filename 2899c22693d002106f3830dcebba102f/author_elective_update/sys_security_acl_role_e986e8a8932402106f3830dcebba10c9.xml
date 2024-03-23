@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Linder</sys_created_by>
+        <sys_created_on>2024-02-20 17:04:21</sys_created_on>
+        <sys_id>e986e8a8932402106f3830dcebba10c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1152827_lva_vehicle_tracker.x_1152827_lva.user</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1152827_lva">2899c22693d002106f3830dcebba102f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2899c22693d002106f3830dcebba102f</sys_scope>
+        <sys_security_acl display_value="x_1152827_lva_vehicle_tracker">ad86e8a8932402106f3830dcebba10c6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e986e8a8932402106f3830dcebba10c9</sys_update_name>
+        <sys_updated_by>Linder</sys_updated_by>
+        <sys_updated_on>2024-02-20 17:04:21</sys_updated_on>
+        <sys_user_role display_value="x_1152827_lva.user" name="x_1152827_lva.user">38994aa693d002106f3830dcebba10f8</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">2899c22693d002106f3830dcebba102f</application>
+        <file_path/>
+        <instance_id>b72f9d6bdbd2799002d9172913961975</instance_id>
+        <instance_name>dev210685</instance_name>
+        <name>sys_security_acl_role_e986e8a8932402106f3830dcebba10c9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>Linder</sys_created_by><sys_created_on>2024-02-20 17:04:21</sys_created_on><sys_id>e986e8a8932402106f3830dcebba10c9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1152827_lva_vehicle_tracker.x_1152827_lva.user</sys_name><sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1152827_lva">2899c22693d002106f3830dcebba102f</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory">2899c22693d002106f3830dcebba102f</sys_scope><sys_security_acl display_value="x_1152827_lva_vehicle_tracker">ad86e8a8932402106f3830dcebba10c6</sys_security_acl><sys_update_name>sys_security_acl_role_e986e8a8932402106f3830dcebba10c9</sys_update_name><sys_updated_by>Linder</sys_updated_by><sys_updated_on>2024-02-20 17:04:21</sys_updated_on><sys_user_role display_value="x_1152827_lva.user" name="x_1152827_lva.user">38994aa693d002106f3830dcebba10f8</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-250098773</payload_hash>
+        <record_name>x_1152827_lva_vehicle_tracker.x_1152827_lva.user</record_name>
+        <reverted_from/>
+        <source>d27d466e93d002106f3830dcebba1015</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Linder</sys_created_by>
+        <sys_created_on>2024-02-20 17:04:21</sys_created_on>
+        <sys_id>e986e8a8932402106f3830dcebba10d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc779c1d70000001</sys_recorded_at>
+        <sys_updated_by>Linder</sys_updated_by>
+        <sys_updated_on>2024-02-20 17:04:21</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>2986e8a8782402104e0f25f20cb0bacb</update_guid>
+        <update_guid_history>2986e8a8782402104e0f25f20cb0bacb:-250098773</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1152827_lva_vehicle_tracker.x_1152827_lva.user">733f410d93f002106f3830dcebba1048</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Linder</sys_created_by>
+        <sys_created_on>2024-03-05 19:34:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>44a22c720b7e40209702ac8e78dc2400</sys_id>
+        <sys_metadata>e986e8a8932402106f3830dcebba10c9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1152827_lva_vehicle_tracker.x_1152827_lva.user</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1152827_lva">2899c22693d002106f3830dcebba102f</sys_package>
+        <sys_parent display_value="x_1152827_lva_vehicle_tracker">ad86e8a8932402106f3830dcebba10c6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2899c22693d002106f3830dcebba102f</sys_scope>
+        <sys_scope_delete display_value="">1ee04e5211d74a848694a934c0e14a44</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_e986e8a8932402106f3830dcebba10c9</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_e986e8a8932402106f3830dcebba10c9">e986e8a8932402106f3830dcebba10d8</sys_update_version>
+        <sys_updated_by>Linder</sys_updated_by>
+        <sys_updated_on>2024-03-05 19:34:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

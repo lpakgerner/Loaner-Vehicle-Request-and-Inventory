@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_search_source">
+    <m2m_sp_portal_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sp_portal display_value="Loaner Vehicle Service">22b8d1bd930102106f3830dcebba1015</sp_portal>
+        <sp_search_source display_value="Pages">76a86f01b3902300e64be12b86a8dc93</sp_search_source>
+        <sys_class_name>m2m_sp_portal_search_source</sys_class_name>
+        <sys_created_by>Linder</sys_created_by>
+        <sys_created_on>2024-03-20 14:48:46</sys_created_on>
+        <sys_id>869d11b1934102106f3830dcebba1001</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Vehicle Service.Pages</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1152827_lva">2899c22693d002106f3830dcebba102f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2899c22693d002106f3830dcebba102f</sys_scope>
+        <sys_update_name>m2m_sp_portal_search_source_869d11b1934102106f3830dcebba1001</sys_update_name>
+        <sys_updated_by>Linder</sys_updated_by>
+        <sys_updated_on>2024-03-20 14:48:46</sys_updated_on>
+    </m2m_sp_portal_search_source>
+</record_update>
