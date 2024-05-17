@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="11b963b393d102106f3830dcebba10dd" label="Vehicle Incidents" max_length="40" name="x_1152827_lva_vehicle_incidents" type="collection">
+        <element default="eadfcd0d93f002106f3830dcebba10cf" label="Assignment Group" max_length="32" name="assignment_group" reference="sys_user_group" reference_qual="123TEXTQUERY321-- oper ---- value --^EQ" reference_qual_condition="123TEXTQUERY321-- oper ---- value --^EQ" type="reference"/>
+        <element label="Description" max_length="500" name="description" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Reference Request Number" max_length="32" name="reference_request_number" read_only="true" reference="sc_req_item" type="reference"/>
+        <element label="Vehicle Tracker" max_length="40" name="vehicle_tracker" read_only="true" reference="x_1152827_lva_vehicle_tracker" type="reference"/>
+        <index name="index">
+            <element name="assignment_group"/>
+        </index>
+        <index name="index2">
+            <element name="reference_request_number"/>
+        </index>
+    </element>
+</database>

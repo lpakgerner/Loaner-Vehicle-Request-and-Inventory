@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Vehicle Model and Quantity Available">9d3e93e193d102106f3830dcebba1053</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>Linder</sys_created_by>
+        <sys_created_on>2024-04-01 15:47:54</sys_created_on>
+        <sys_id>153e93e193d102106f3830dcebba1054</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9d3e93e193d102106f3830dcebba1053</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1152827_lva">2899c22693d002106f3830dcebba102f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2899c22693d002106f3830dcebba102f</sys_scope>
+        <sys_update_name>sys_report_users_groups_153e93e193d102106f3830dcebba1054</sys_update_name>
+        <sys_updated_by>Linder</sys_updated_by>
+        <sys_updated_on>2024-04-01 15:47:54</sys_updated_on>
+        <user_id display_value="Linder Pak-Gerner">973c4aea93d002106f3830dcebba10bf</user_id>
+    </sys_report_users_groups>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Record Producer Information" section_id="64ee677b93d102106f3830dcebba109d" sys_domain="global" table="x_1152827_lva_vehicle_incidents" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>com_glideapp_questionset_default_question_editor.xml</element>
+            <position>0</position>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-04-08 16:48:34</sys_created_on>
+            <sys_id>9e3faf7b93d102106f3830dcebba1014</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="LVA Incident Editor">ef8eef3b93d102106f3830dcebba1022</sys_ui_formatter>
+            <sys_ui_section caption="Record Producer Information" display_value="Record Producer Information" name="x_1152827_lva_vehicle_incidents" sys_domain="global" view="Default view">64ee677b93d102106f3830dcebba109d</sys_ui_section>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-04-08 16:48:34</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Record Producer Information</caption>
+            <header>false</header>
+            <name>x_1152827_lva_vehicle_incidents</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-04-08 16:47:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>64ee677b93d102106f3830dcebba109d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1152827_lva_vehicle_incidents</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1152827_lva">2899c22693d002106f3830dcebba102f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory">2899c22693d002106f3830dcebba102f</sys_scope>
+            <sys_update_name>sys_ui_section_64ee677b93d102106f3830dcebba109d</sys_update_name>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-04-08 16:47:05</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

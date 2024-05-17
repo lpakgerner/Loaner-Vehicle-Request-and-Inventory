@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="26ecabb793d102106f3830dcebba108a" sys_domain="global" table="x_1152827_lva_vehicle_incidents" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-04-08 16:38:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>beecabb793d102106f3830dcebba108d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1152827_lva_vehicle_incidents" name="x_1152827_lva_vehicle_incidents" sys_domain="global" view="Default view">26ecabb793d102106f3830dcebba108a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1152827_lva_vehicle_incidents" sys_domain="global" view="Default view">b2ba67f393d102106f3830dcebba10dc</sys_ui_section>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-04-08 16:38:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-04-08 16:38:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3eecabb793d102106f3830dcebba108e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1152827_lva_vehicle_incidents" name="x_1152827_lva_vehicle_incidents" sys_domain="global" view="Default view">26ecabb793d102106f3830dcebba108a</sys_ui_form>
+            <sys_ui_section caption="Description" display_value="Description" name="x_1152827_lva_vehicle_incidents" sys_domain="global" view="Default view">a6ecabb793d102106f3830dcebba1089</sys_ui_section>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-04-08 16:38:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-04-08 16:47:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2cee677b93d102106f3830dcebba109f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1152827_lva_vehicle_incidents" name="x_1152827_lva_vehicle_incidents" sys_domain="global" view="Default view">26ecabb793d102106f3830dcebba108a</sys_ui_form>
+            <sys_ui_section caption="Record Producer Information" display_value="Record Producer Information" name="x_1152827_lva_vehicle_incidents" sys_domain="global" view="Default view">64ee677b93d102106f3830dcebba109d</sys_ui_section>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-04-08 16:47:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1152827_lva_vehicle_incidents</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Linder</sys_created_by>
+            <sys_created_on>2024-04-08 16:38:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26ecabb793d102106f3830dcebba108a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1152827_lva_vehicle_incidents</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1152827_lva">2899c22693d002106f3830dcebba102f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory">2899c22693d002106f3830dcebba102f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_26ecabb793d102106f3830dcebba108a</sys_update_name>
+            <sys_updated_by>Linder</sys_updated_by>
+            <sys_updated_on>2024-04-08 16:38:29</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

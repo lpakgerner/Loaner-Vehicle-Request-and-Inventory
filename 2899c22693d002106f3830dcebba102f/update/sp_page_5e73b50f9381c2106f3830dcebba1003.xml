@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>sc</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>lvs_sc_category</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>true</public>
+        <roles>snc_external,snc_internal</roles>
+        <seo_script/>
+        <short_description>copy of sc_category</short_description>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>Linder</sys_created_by>
+        <sys_created_on>2024-03-24 13:36:45</sys_created_on>
+        <sys_id>5e73b50f9381c2106f3830dcebba1003</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>lvs_sc_category</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1152827_lva">2899c22693d002106f3830dcebba102f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">2899c22693d002106f3830dcebba102f</sys_scope>
+        <sys_update_name>sp_page_5e73b50f9381c2106f3830dcebba1003</sys_update_name>
+        <sys_updated_by>Linder</sys_updated_by>
+        <sys_updated_on>2024-03-24 13:48:24</sys_updated_on>
+        <title>Loaner Vehicle Inventory</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=5e73b50f9381c2106f3830dcebba1003"/>
+</record_update>

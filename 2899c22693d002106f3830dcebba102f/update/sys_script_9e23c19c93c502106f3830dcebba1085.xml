@@ -58,7 +58,7 @@
     createTicket.setValue('vehicle',current.vehicle);
     //Set the 'vehicle' field with the current records 'vehicle' value
 
-    createTicket.setValue('vehicle_status','in service');
+    createTicket.setValue('vehicle_status','in_service');
     //Set the 'vehicle_status' field to 'in service'
 
     createTicket.setValue('date_sent_for_servicing',gd.getValue());
@@ -78,15 +78,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9e23c19c93c502106f3830dcebba1085</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>creating servicing ticket</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1152827_lva">2899c22693d002106f3830dcebba102f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Vehicle Request and Inventory">2899c22693d002106f3830dcebba102f</sys_scope>
         <sys_update_name>sys_script_9e23c19c93c502106f3830dcebba1085</sys_update_name>
-        <sys_updated_by>Linder</sys_updated_by>
-        <sys_updated_on>2024-03-17 23:14:02</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-04 13:10:16</sys_updated_on>
         <template/>
         <when>after</when>
     </sys_script>
